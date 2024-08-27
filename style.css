@@ -425,7 +425,7 @@ section {
 
 .certification {
   display: flex;
-  flex-direction: row;
+  justify-content: space-around;
   align-items: center;
   margin-bottom: 20px;
 }
