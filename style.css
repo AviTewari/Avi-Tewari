@@ -437,7 +437,7 @@ section {
 }
 
 .certification img {
-  max-width: 450px; /* Adjust the size as needed */
+  max-width: 300px; /* Adjust the size as needed */
   height: auto;
   border: 1px solid #ccc;
   border-radius: 10px;
